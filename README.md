@@ -86,7 +86,7 @@ These results are from the notebook's `trainer.evaluate()` output (final evaluat
 | Resource | Link |
 |----------|------|
 | Hugging Face Model | https://huggingface.co/mehtayash12345678/distilbert-goodreads-genres |
-| W&B Dashboard | https://huggingface.co/mehtayash12345678/distilbert-goodreads-genres |
+| W&B Dashboard | https://wandb.ai/g25ait2133-indian-institute-technology-jodhpur/huggingface/runs/s7z2mf2y |
 | Kaggle Notebook | https://www.kaggle.com/code/datadrivenyash/mlops-assignment2-g25ait2133 |
 | GitHub Repository | https://github.com/yash001/mlops-assignment2 |
 
