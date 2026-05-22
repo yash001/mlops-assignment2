@@ -18,10 +18,10 @@ The primary training was done in the Kaggle Notebook (linked below). The Python 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<yash001>/mlops-assignment2.git
+git clone https://github.com/yash001/mlops-assignment2.git
 
 # 2. Open the project folder
-cd mlops-assignment-2
+cd mlops-assignment2
 
 # 3. Install dependencies
 pip install -r requirements.txt
@@ -86,9 +86,9 @@ These results are from the notebook's `trainer.evaluate()` output (final evaluat
 | Resource | Link |
 |----------|------|
 | Hugging Face Model | https://huggingface.co/mehtayash12345678/distilbert-goodreads-genres |
-| W&B Dashboard | <https://wandb.ai/g25ait2133-indian-institute-technology-jodhpur/huggingface/runs/s7z2mf2y> |
-| Kaggle Notebook | <https://www.kaggle.com/code/mehtayash12345678/mlops-assignment2-g25ait2133> |
-| GitHub Repository | https://github.com/<yash001>/mlops-assignment2 |
+| W&B Dashboard | https://huggingface.co/mehtayash12345678/distilbert-goodreads-genres |
+| Kaggle Notebook | https://www.kaggle.com/code/datadrivenyash/mlops-assignment2-g25ait2133 |
+| GitHub Repository | https://github.com/yash001/mlops-assignment2 |
 
 ---
 
